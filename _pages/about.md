@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome! I am a first-year Computer Science PhD student at the University of Toronto, advised by Daniel Wigdor."
 author_profile: true
 redirect_from: 
   - /about/
