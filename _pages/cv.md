@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "[CV](https://drive.google.com/file/d/1CYLtOa4AP3fI2ToVRO7lAbbXP_4No6zx/view?usp=sharing)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -68,12 +68,12 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+   -->
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
