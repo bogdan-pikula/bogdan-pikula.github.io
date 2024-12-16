@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[### View File](https://drive.google.com/file/d/1CYLtOa4AP3fI2ToVRO7lAbbXP_4No6zx/view?usp=sharing)
+[View PDF](http://bogdan-pikula.github.io/files/CV_Dec_2024_ta.pdf)
 
 
 Education
