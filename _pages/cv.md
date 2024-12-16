@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-###[View File](https://drive.google.com/file/d/1CYLtOa4AP3fI2ToVRO7lAbbXP_4No6zx/view?usp=sharing)
+[### View File](https://drive.google.com/file/d/1CYLtOa4AP3fI2ToVRO7lAbbXP_4No6zx/view?usp=sharing)
 
 
 Education
@@ -76,6 +76,7 @@ Publications
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
    -->
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
